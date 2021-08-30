@@ -1,0 +1,45 @@
+# EpicItems Configuration:
+# Thank you for downloading my plugin!
+
+#---------------------------------
+#|                               |
+#|             Tools             |
+#|                               |
+#---------------------------------
+CheckForUpdates: true # Recommended to leave
+bStats: true # Please do not disable as this gives me statistics of my plugin
+
+#---------------------------------
+#|                               |
+#|             Items             |
+#|                               |
+#---------------------------------
+# Change stats and more of items
+
+# Evoker Staff
+evokerDrop: true # Whether or not an evoker drops the Evoker Staff
+
+# Explosive Bow
+witherAndEnderDragonDrop: true # Whether or not if thr Ender Dragon and Wither drops the Explosive Bow
+
+# Airstrike
+message: " X: %x% Y: %y% Z: %z%" # Recommended to not change
+
+#---------------------------------
+#|                               |
+#|           Enable              |
+#|                               |
+#---------------------------------
+# Enable or disable items
+
+AceSword: true
+Bonemerang: true
+EndermanBow: true
+EndermanSword: true
+EvokerStaff: true
+ExplosiveBow: true
+GrapplingHook: true
+RocketLauncher: true
+RunaansBow: true
+Airstrike: true
+HealingSword: true
