@@ -1,0 +1,54 @@
+# EpicItems configuration panel
+
+#---------------------------------
+#|                               |
+#|             Tools             |
+#|                               |
+#---------------------------------
+
+# Checks for a new plugin update
+CheckForUpdates: true
+
+# Gives plugin statistics, locate the statistics by using the '/epicitems stats' command ingame
+bStats: true
+
+#---------------------------------
+#|                               |
+#|             Items             |
+#|                               |
+#---------------------------------
+# Change stats and more of items
+
+# Evoker Staff
+
+# Whether or not an evoker drops the Evoker Staff
+evokerDrop: true
+
+# Explosive Bow
+
+# Whether or not if thr Ender Dragon and Wither drops the Explosive Bow
+witherAndEnderDragonDrop: true
+
+# Airstrike
+message: " X: %x% Y: %y% Z: %z%" # DO NOT TOUCH
+
+#---------------------------------
+#|                               |
+#|           Enable              |
+#|                               |
+#---------------------------------
+# Enable or disable items
+
+AceSword: true
+Bonemerang: true
+EndermanBow: true
+EndermanSword: true
+EvokerStaff: true
+ExplosiveBow: true
+GrapplingHook: true
+RocketLauncher: true
+RunaansBow: true
+Airstrike: true
+HealingSword: true
+
+#Disable crafting is coming soon!
