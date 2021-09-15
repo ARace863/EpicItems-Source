@@ -1,0 +1,8 @@
+EpicItems Change log
+
+Started on 9/15/2021 - 7:31 PM
+
+9/15/2021:
+ Now using NoteBlockAPI
+ Added a 'Songs' package to include .nbs song files
+ Added NoteBlockAPI to the 'softdepend' list in plugin.yml
