@@ -8,7 +8,7 @@
 #(Should leave on for bug fixes and more features)
 CheckForUpdates: true
 
-#Should we check if you have installed NoteBlockAPI (which is an essential part of our plugin)?
+#Should we check if you have installed NoteBlockAPI (which is an essential part to the plugin)?
 CheckForNoteBlockAPI: true
 
 #Recommended to leave
