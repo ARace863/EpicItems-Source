@@ -1,0 +1,16 @@
+#Change system messages
+
+#Load-up messages
+preCheckForUpdatesMessage: "Checking for updates ..."
+
+noUpdate: "There is no new update available."
+
+foundUpdate: "A new update is available! Go to https://www.spigotmc.org/resources/epic-items-custom-items.93541/ to download it"
+
+bStatsEnabled: "Enabling plugin metrics ..."
+
+disabledUpdateChecker: "[EpicItems] Disabled Update Checker"
+
+disabledBstats: "[EpicItems] Disabled bStats"
+
+#This file is not finished and will include more options in the future.

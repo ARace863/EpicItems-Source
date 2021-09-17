@@ -1,0 +1,91 @@
+#---------------------------------
+#|                               |
+#|             Tools             |
+#|                               |
+#---------------------------------
+
+#Should the plugin notify you if there is a new update?
+#(Should leave on for bug fixes and more features)
+CheckForUpdates: true
+
+#Should we check if you have installed NoteBlockAPI (which is an essential part of our plugin)?
+CheckForNoteBlockAPI: true
+
+#Recommended to leave
+bStats: true
+
+#---------------------------------
+#|                               |
+#|             Items             |
+#|                               |
+#---------------------------------
+
+#Should the evoker mob drop the Evoker staff?
+evokerDrop: true
+
+#Max block range for the Evoker Staff ability
+evokerStaffMaxRange: 10 #Cannot contain decimals
+
+#How far should the Grappling hook pull you forward?
+pullVelocityOfGrapplingHook: 0.3
+
+#Should the grappling hook give speed?
+grapplingHookSpeed: true
+
+#Which bows should have the quiver? (Infinite arrows)
+EndermanBowQuiver: true
+ExplosiveBowQuiver: true
+RunaansBowQuiver: true
+
+#How far should you teleport while using the Enderman Sword
+endermanSwordTeleportDistance: 8
+
+#Explosion power of the Ace Sword
+aceSwordExplosivePower: 4 #Warning! Very high numbers and decimals might cause problems, try not to go higher than 10.
+
+#How much damage should the Bonemerang do?
+bonemerangDamage: 25.0
+
+#Should the wither and ender dragon drop the Explosive bow?
+witherAndEnderDragonDrop: true
+
+#---------------------------------
+#|                               |
+#|         Cooldown              |
+#|                               |
+#---------------------------------
+
+# All numbers are in seconds
+
+AceSwordCooldown: 1
+BonemerangCooldown: 0
+EndermanBowCooldown: 0
+EndermanSwordCooldown: 0
+EvokerStaffCooldown: 1
+ExplosiveBowCooldown: 0
+GrapplingHookCooldown: 2
+RocketLauncherCooldown: 5
+RunaansBowCooldown: 0
+HealingSwordCooldown: 10
+AirstrikeCooldown: 10
+UltraDrillCooldown: 0
+
+#---------------------------------
+#|                               |
+#|       Enabled Items           |
+#|                               |
+#---------------------------------
+
+AceSword: true
+Bonemerang: true
+EndermanBow: true
+EndermanSword: true
+EvokerStaff: true
+ExplosiveBow: true
+GrapplingHook: true
+RocketLauncher: true
+RunaansBow: true
+Airstrike: true
+HealingSword: true
+
+message: " X: %x% Y: %y% Z: %z%" # DO NOT TOUCH
