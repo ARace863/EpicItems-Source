@@ -1,0 +1,73 @@
+name: EpicItems
+version: 1.7.4
+main: me.arace863.epicitems.EpicItems
+api-version: 1.16
+authors: [ ARace863 ]
+description: Creates custom items into your minecraft server or SMP!
+website: https://www.youtube.com/ARace863
+softdepend: [NoteBlockAPI]
+commands:
+  epicitems:
+    description: Main command for Epic Items
+  endermansword:
+    description: Gives you a sword which you can useto teleport
+    usage: /<command>
+    aliases: giveendermansword
+  acesword:
+    description: Gives you a sword which teleports while exploding blocks
+    usage: /<command>
+    aliases: giveacesword
+  rpg:
+    description: Gives you a weapon which you can fire rockets with
+    usage: /<command>
+    aliases: giverpg
+  bonemerang:
+    description: Gives you a bow which you can throw; does half damage on the way back
+    usage: /<command>
+    aliases: givebonemerang
+  items:
+    description: Opens a GUI which you can easily select the custom items
+    usage: /<command>
+    aliases: itemgui
+  grapplinghook:
+    description: Grapple around your minecraft server!
+    usage: /<command>
+    aliases: givegrapplinghook
+  endermanbow:
+    description: Gives you a weapon that
+    usage: /<command>
+    aliases: giveendermanbow
+  explosivebow:
+    description: Gives you the Explosive Bow
+    usage: /<command>
+    aliases: giveexplosivebow
+  runaansbow:
+    description: Gives you the Runaans Bow
+    usage: /<command>
+    aliases: giverunaansbow
+  evokerstaff:
+    description: Gives you the Evoker Staff
+    usage: /<command>
+    aliases: giveevokerstaff
+  airstrike:
+    description: Gives you the Airstrike item
+    usage: /<command>
+    aliases: giveairstrike
+  knockbackstick:
+    description: Gives you the Knockback stick item
+    usage: /<command>
+    aliases: giveknockbackstick
+  healingsword:
+    description: Gives you the Healing Sword item
+    usage: /<command>
+    aliases: givehealingsword
+  ultradrill:
+    description: Gives you the Ultra Drill pickaxe
+    usage: /<command>
+    aliases: giveultradrill
+  gms:
+    usage: /<command>
+  gmc:
+    usage: /<command>
+  heal:
+    usage: /<command>
