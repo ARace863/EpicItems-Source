@@ -17,7 +17,11 @@ public class AddIdentifierLore implements Listener {
     public void createLore(PlayerInteractEvent event){
         Player player = event.getPlayer();
         ItemMeta meta = player.getInventory().getItemInMainHand().getItemMeta();
-        //Sorry for whoever has to read this eyesore of code. will optimise later...
+        
+        //Sorry for whoever has to read this eyesore of code. its 3am when I am writing this
+        
+        
+        //Change into switch statement!!
         if (event.getAction().equals(Action.RIGHT_CLICK_AIR) || event.getAction().equals(Action.LEFT_CLICK_AIR) || event.getAction().equals(Action.RIGHT_CLICK_BLOCK) || event.getAction().equals(Action.LEFT_CLICK_BLOCK)){
             if (event.getItem() != null && event.getItem().getItemMeta().hasLore()){
                 if (event.getItem() != null && event.getItem().getItemMeta().getDisplayName().equals("§dEnderman Sword")){
