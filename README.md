@@ -1,7 +1,7 @@
 Epic Items source code:
 
 What is EpicItems?
- EpicItems is a Spigot 1.17 plugin that adds ~14 unique custom items with recipes and some extra features
+ EpicItems is a Spigot 1.16-1.17 plugin that adds ~14 unique custom items with recipes and some extra features
  
 How do I download?
  All you need to do is go to this link https://www.spigotmc.org/resources/epic-items-custom-items.93541/ and press the "Download Now" button.
