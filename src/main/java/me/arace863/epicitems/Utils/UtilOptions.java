@@ -48,7 +48,7 @@ public class UtilOptions {
     }
 
     public void playerMessage(Player player, String msg) {
-        player.sendMessage(ChatColor.translateAlternateColorCodes('&', msg));
+        player.sendMessage(ChatColor.AQUA + "[EpicItems] " + ChatColor.translateAlternateColorCodes('&', msg));
         // TODO: 10/9/2021 Replace all strings with this method to get rid of the pesky '§' 
     }
 }
