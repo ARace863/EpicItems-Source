@@ -156,6 +156,4 @@ public class ParticleManager {
             }
         }.runTaskTimer(plugin, 0, 1);
     }
-
-    // TODO: 9/26/2021 Add FireBallRod particle here from advanced bukkit tutorials guide 
 }
