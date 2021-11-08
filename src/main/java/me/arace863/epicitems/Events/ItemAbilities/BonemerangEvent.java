@@ -55,7 +55,7 @@ public class BonemerangEvent implements Listener {
                             final Vector vector = destination.subtract(player.getLocation()).toVector();
                             Cooldown.setCooldown(event.getPlayer(), this.config.getInt("BonemerangCooldown"));
                             (new BukkitRunnable() {
-                                int distance = 60;
+                                int distance = 40.87;
                                 int i = 0;
 
                                 public void run() {
